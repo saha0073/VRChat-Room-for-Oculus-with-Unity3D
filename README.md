@@ -15,7 +15,7 @@
 
 ## Future Directions
 To make the room more intersting Ai/ML features can be integrated in the room. These are several possible directions,
-* Engaging games can be added up in the roo. The computer will be trained in the game using Reinforcement Learning and the visitors will play against the computer.
+* Engaging games can be added up in the room. The computer will be trained in the game using Reinforcement Learning and the visitors will play against the computer.
 * The room can contain GAN generated paintaings in the walls, and the viewers might enjoy the wall paintings while hanging out in the room.
 * The room can be setup to broadcast the major live sports events, and machine learning algorithm can be used in ranking the live sports events. 
 
