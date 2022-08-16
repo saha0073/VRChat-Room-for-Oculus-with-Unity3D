@@ -5,7 +5,7 @@
  
  This repo conatins a VR Chat room made using Unity, Blender, and VRChat SDK. The room has been designed at first in Blender, and then it has been imported in Unity. Subsequently, the physics, colliders, lightings,
  and interactions has been added in Unity. Finally, VR Chat SDK has been utilized to add the interaction such as grabbing the objects, sitting in the chairs, toggling the buttons, and navigating in the room.
- To make the room more intersting Ai/ML features can be integrated in the next step. 
+ To make the room more interesting Ai/ML features can be integrated in the next step. 
  
  ## Techniques Used
  * GameEngine: Unity3D 19.4
